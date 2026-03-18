@@ -1,0 +1,2 @@
+# Don't commit personal config with server credentials
+# Users should copy config.example.ps1 to config.ps1 and edit it
