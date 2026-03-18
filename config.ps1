@@ -21,6 +21,6 @@ $Config = @{
     # SSH key file (leave empty to use default ~/.ssh/id_ed25519 or id_rsa)
     SSH_KEY = ""
 
-    # File pattern to watch
-    FILE_FILTER = "*.png"
+    # File pattern to watch (* = all files, filtering is done in script)
+    FILE_FILTER = "*.*"
 }
